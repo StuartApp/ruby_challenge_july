@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tk (0.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tk
+
+BUNDLED WITH
+   1.15.1
