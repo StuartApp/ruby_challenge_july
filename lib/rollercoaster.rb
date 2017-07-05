@@ -7,6 +7,10 @@ CANVAS_HEIGHT = 400
 def run_cart
 end
 
+root = TkRoot.new do
+  title "Roller Coaster Simulator"
+end
+
 canvas = TkCanvas.new(root) do
   width  CANVAS_WIDTH
   height CANVAS_HEIGHT
